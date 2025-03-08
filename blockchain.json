@@ -1,0 +1,165 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": 1741412828562,
+      "previous_hash": "0",
+      "hash": "000076a74e620f30739bd816b642b6fd21942601b844ccebbada214684f960bb",
+      "nonce": 19797,
+      "transactions": []
+    },
+    {
+      "index": 1,
+      "timestamp": 1741412828704,
+      "previous_hash": "000076a74e620f30739bd816b642b6fd21942601b844ccebbada214684f960bb",
+      "hash": "0000fb0ba416847a5ff58fd9b62c974e0334175252e40a6c2d0162c7a4c74e3e",
+      "nonce": 195305,
+      "transactions": [
+        {
+          "sender": "Alice",
+          "receiver": "Bob",
+          "amount": 10
+        },
+        {
+          "sender": "Bob",
+          "receiver": "Charlie",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "timestamp": 1741412920368,
+      "previous_hash": "0000fb0ba416847a5ff58fd9b62c974e0334175252e40a6c2d0162c7a4c74e3e",
+      "hash": "0000d52e28a36aea15c27ed6374054003ed7a332c6030eaa5abe03ab74830385",
+      "nonce": 32114,
+      "transactions": [
+        {
+          "sender": "Alice",
+          "receiver": "Bob",
+          "amount": 10
+        },
+        {
+          "sender": "Bob",
+          "receiver": "Charlie",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "timestamp": 1741412994862,
+      "previous_hash": "0000d52e28a36aea15c27ed6374054003ed7a332c6030eaa5abe03ab74830385",
+      "hash": "000093c35d64482ff93319441b64befdc1cbceb3ff0a778595c7682d8b9c90f6",
+      "nonce": 2647,
+      "transactions": [
+        {
+          "sender": "Alice",
+          "receiver": "Bob",
+          "amount": 10
+        },
+        {
+          "sender": "Bob",
+          "receiver": "Charlie",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "timestamp": 1741413014144,
+      "previous_hash": "000093c35d64482ff93319441b64befdc1cbceb3ff0a778595c7682d8b9c90f6",
+      "hash": "00002c194c32e1903cbbfaf45f8d066574f9b95a0b453866d517307df12a1ce2",
+      "nonce": 38765,
+      "transactions": [
+        {
+          "sender": "Alice",
+          "receiver": "Bob",
+          "amount": 10
+        },
+        {
+          "sender": "Bob",
+          "receiver": "Charlie",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "timestamp": 1741413063462,
+      "previous_hash": "00002c194c32e1903cbbfaf45f8d066574f9b95a0b453866d517307df12a1ce2",
+      "hash": "0000d723fccc0295dd72cc084eb936fdc2302c693f0d7b82368fc75b9a978470",
+      "nonce": 8768,
+      "transactions": [
+        {
+          "sender": "Alice",
+          "receiver": "Bob",
+          "amount": 10
+        },
+        {
+          "sender": "Bob",
+          "receiver": "Charlie",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "timestamp": 1741413227255,
+      "previous_hash": "0000d723fccc0295dd72cc084eb936fdc2302c693f0d7b82368fc75b9a978470",
+      "hash": "0000d38cd536d6ff05350335d7db6892864530fa37959881d196bd78c8e0e0bd",
+      "nonce": 110895,
+      "transactions": [
+        {
+          "sender": "Alice",
+          "receiver": "Bob",
+          "amount": 10
+        },
+        {
+          "sender": "Bob",
+          "receiver": "Charlie",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "timestamp": 1741413544976,
+      "previous_hash": "0000d38cd536d6ff05350335d7db6892864530fa37959881d196bd78c8e0e0bd",
+      "hash": "000090f43fafceee2f7548c7157da4a526adaa50d150e2bc9a7c817cc1bc5550",
+      "nonce": 50507,
+      "transactions": [
+        {
+          "sender": "Alice",
+          "receiver": "Bob",
+          "amount": 10
+        },
+        {
+          "sender": "Bob",
+          "receiver": "Charlie",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "timestamp": 1741419246129,
+      "previous_hash": "000090f43fafceee2f7548c7157da4a526adaa50d150e2bc9a7c817cc1bc5550",
+      "hash": "00007f15b8b404e8fc592b0090fabaa54d45854653289cd25fbaf54aaebfcd0e",
+      "nonce": 160788,
+      "transactions": [
+        {
+          "sender": "Alice",
+          "receiver": "Bob",
+          "amount": 10
+        },
+        {
+          "sender": "Bob",
+          "receiver": "Charlie",
+          "amount": 5
+        }
+      ]
+    }
+  ],
+  "difficulty": 4
+}
